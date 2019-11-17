@@ -2,41 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aba1bcb7-52ff-4114-9426-f8435cc9a562" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/css/all.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/webfonts/fa-brands-400.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/webfonts/fa-brands-400.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/webfonts/fa-brands-400.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/webfonts/fa-brands-400.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/webfonts/fa-brands-400.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/webfonts/fa-regular-400.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/webfonts/fa-regular-400.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/webfonts/fa-regular-400.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/webfonts/fa-regular-400.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/webfonts/fa-regular-400.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/webfonts/fa-solid-900.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/webfonts/fa-solid-900.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/webfonts/fa-solid-900.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/webfonts/fa-solid-900.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/webfonts/fa-solid-900.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/auth/passwords/change.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/clients.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/createClient.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/createPayment.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/createUser.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/editUser.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/layouts/clientSearch.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/layouts/paymentSearch.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/payments.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/transactions.blade.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/resources/views/users.blade.php" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" afterPath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" afterPath="$PROJECT_DIR$/app/User.php" />
-      <change beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change beforePath="$PROJECT_DIR$/public/js/app.js" afterPath="$PROJECT_DIR$/public/js/app.js" />
-      <change beforePath="$PROJECT_DIR$/resources/lang/ka.json" afterPath="$PROJECT_DIR$/resources/lang/ka.json" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" afterPath="$PROJECT_DIR$/routes/web.php" />
+      <change beforePath="$PROJECT_DIR$/resources/views/clients.blade.php" afterPath="$PROJECT_DIR$/resources/views/clients.blade.php" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/clientSearch.blade.php" afterPath="$PROJECT_DIR$/resources/views/layouts/clientSearch.blade.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/resources/views/payments.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
-              <caret line="19" column="18" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="19" selection-end-column="18" />
+              <caret line="19" column="18" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="19" selection-end-column="18" />
               <folding>
                 <marker date="1574011055040" expanded="true" signature="9:22" ph="..." />
                 <marker date="1574011055040" expanded="true" signature="34:43" ph="..." />
@@ -111,13 +78,13 @@
         <entry file="file://$PROJECT_DIR$/app/Client.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClientController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ClientController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ClientController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="77">
@@ -129,6 +96,16 @@
                 <element signature="e#896#1765#0#PHP" expanded="false" />
                 <element signature="e#1780#2023#0#PHP" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -149,7 +126,7 @@
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PaymentController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="197">
-              <caret line="128" column="5" lean-forward="true" selection-start-line="109" selection-start-column="3" selection-end-line="128" selection-end-column="5" />
+              <caret line="128" column="5" lean-forward="false" selection-start-line="109" selection-start-column="3" selection-end-line="128" selection-end-column="5" />
               <folding>
                 <element signature="e#293#430#0#PHP" expanded="false" />
                 <element signature="e#435#929#0#PHP" expanded="false" />
@@ -163,42 +140,50 @@
       <file leaf-file-name="clients.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/clients.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="35" column="50" lean-forward="false" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
+            <state relative-caret-position="149">
+              <caret line="54" column="58" lean-forward="false" selection-start-line="54" selection-start-column="58" selection-end-line="54" selection-end-column="58" />
               <folding>
-                <element signature="e#1808#4361#0#HTML" expanded="false" />
-                <element signature="e#4428#4584#0#HTML" expanded="false" />
-                <marker date="1574016701224" expanded="true" signature="9:22" ph="..." />
-                <marker date="1574016701224" expanded="true" signature="34:43" ph="..." />
-                <marker date="1574016701224" expanded="true" signature="284:314" ph="..." />
-                <marker date="1574016701224" expanded="true" signature="284:352" ph="..." />
-                <marker date="1574016701224" expanded="true" signature="426:469" ph="..." />
-                <marker date="1574016701224" expanded="true" signature="662:732" ph="..." />
-                <marker date="1574016701224" expanded="true" signature="1495:1512" ph="..." />
-                <marker date="1574016701224" expanded="true" signature="1623:1642" ph="..." />
-                <marker date="1574016701224" expanded="true" signature="1743:1778" ph="..." />
+                <element signature="e#4427#4583#0#HTML" expanded="false" />
+                <marker date="1574023204082" expanded="true" signature="9:22" ph="..." />
+                <marker date="1574023204082" expanded="true" signature="34:43" ph="..." />
+                <marker date="1574023204082" expanded="true" signature="284:314" ph="..." />
+                <marker date="1574023204082" expanded="true" signature="284:352" ph="..." />
+                <marker date="1574023204082" expanded="true" signature="426:469" ph="..." />
+                <marker date="1574023204082" expanded="true" signature="662:732" ph="..." />
+                <marker date="1574023204082" expanded="true" signature="1495:1512" ph="..." />
+                <marker date="1574023204082" expanded="true" signature="1623:1642" ph="..." />
+                <marker date="1574023204082" expanded="true" signature="1743:1778" ph="..." />
+                <marker date="1574023204082" expanded="true" signature="2467:2486" ph="..." />
+                <marker date="1574023204082" expanded="true" signature="2579:2597" ph="..." />
+                <marker date="1574023204082" expanded="true" signature="2647:2660" ph="..." />
+                <marker date="1574023204082" expanded="true" signature="2708:2739" ph="..." />
+                <marker date="1574023204082" expanded="true" signature="2787:2801" ph="..." />
+                <marker date="1574023204082" expanded="true" signature="2855:2867" ph="..." />
+                <marker date="1574023204082" expanded="true" signature="3114:3130" ph="..." />
+                <marker date="1574023204082" expanded="true" signature="3391:3422" ph="..." />
+                <marker date="1574023204082" expanded="true" signature="3914:3975" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="clientSearch.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="clientSearch.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/layouts/clientSearch.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-289">
-              <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+            <state relative-caret-position="85">
+              <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
               <folding>
-                <element signature="e#1781#1881#0#HTML" expanded="false" />
-                <marker date="1574016712806" expanded="true" signature="4:39" ph="..." />
-                <marker date="1574016712806" expanded="true" signature="412:431" ph="..." />
-                <marker date="1574016712806" expanded="true" signature="484:502" ph="..." />
-                <marker date="1574016712806" expanded="true" signature="532:545" ph="..." />
-                <marker date="1574016712806" expanded="true" signature="573:604" ph="..." />
-                <marker date="1574016712806" expanded="true" signature="632:646" ph="..." />
-                <marker date="1574016712806" expanded="true" signature="680:693" ph="..." />
-                <marker date="1574016712806" expanded="true" signature="840:856" ph="..." />
-                <marker date="1574016712806" expanded="true" signature="1037:1068" ph="..." />
-                <marker date="1574016712806" expanded="true" signature="1476:1537" ph="..." />
+                <element signature="e#1780#1880#0#HTML" expanded="false" />
+                <marker date="1574023222652" expanded="true" signature="4:39" ph="..." />
+                <marker date="1574023222652" expanded="true" signature="412:431" ph="..." />
+                <marker date="1574023222652" expanded="true" signature="484:502" ph="..." />
+                <marker date="1574023222652" expanded="true" signature="532:545" ph="..." />
+                <marker date="1574023222652" expanded="true" signature="573:604" ph="..." />
+                <marker date="1574023222652" expanded="true" signature="632:646" ph="..." />
+                <marker date="1574023222652" expanded="true" signature="680:692" ph="..." />
+                <marker date="1574023222652" expanded="true" signature="839:855" ph="..." />
+                <marker date="1574023222652" expanded="true" signature="1036:1067" ph="..." />
+                <marker date="1574023222652" expanded="true" signature="1475:1536" ph="..." />
               </folding>
             </state>
           </provider>
@@ -259,7 +244,6 @@
         <option value="$PROJECT_DIR$/resources/lang/tsconfig.json" />
         <option value="$PROJECT_DIR$/config/voyager.php" />
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
-        <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/resources/lang/ka.json" />
         <option value="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" />
         <option value="$PROJECT_DIR$/app/Role.php" />
@@ -282,11 +266,12 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/userController.php" />
         <option value="$PROJECT_DIR$/resources/views/auth/passwords/change.blade.php" />
         <option value="$PROJECT_DIR$/app/Rules/MatchOldPassword.php" />
-        <option value="$PROJECT_DIR$/resources/views/clients.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/clientSearch.blade.php" />
         <option value="$PROJECT_DIR$/public/js/app.js" />
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/ClientController.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/resources/views/clients.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/clientSearch.blade.php" />
       </list>
     </option>
   </component>
@@ -450,36 +435,6 @@
             <path>
               <item name="newLaravel" type="b2602c69:ProjectViewProjectNode" />
               <item name="newLaravel" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="newLaravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newLaravel" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="newLaravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newLaravel" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="newLaravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newLaravel" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="newLaravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newLaravel" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="newLaravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newLaravel" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -487,21 +442,6 @@
               <item name="newLaravel" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="newLaravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newLaravel" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="auth" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="newLaravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newLaravel" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="auth" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="passwords" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="newLaravel" type="b2602c69:ProjectViewProjectNode" />
@@ -563,12 +503,12 @@
       <workItem from="1568702058871" duration="1270000" />
       <workItem from="1573808516659" duration="3967000" />
       <workItem from="1573814354434" duration="32638000" />
-      <workItem from="1573969937774" duration="28015000" />
+      <workItem from="1573969937774" duration="29608000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73437000" />
+    <option name="totallyTimeSpent" value="75030000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -720,13 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1462">
           <caret line="86" column="12" lean-forward="false" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -1059,7 +992,7 @@
         <state relative-caret-position="41">
           <caret line="151" column="53" lean-forward="false" selection-start-line="151" selection-start-column="53" selection-end-line="151" selection-end-column="53" />
           <folding>
-            <element signature="e#40#68#0#PHP" expanded="true" />
+            <element signature="e#40#68#0#PHP" expanded="false" />
             <element signature="e#331#731#0#PHP" expanded="false" />
             <element signature="e#736#1127#0#PHP" expanded="false" />
             <element signature="e#1132#2021#0#PHP" expanded="false" />
@@ -1072,7 +1005,7 @@
     <entry file="file://$PROJECT_DIR$/app/Client.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -1080,7 +1013,7 @@
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PaymentController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
-          <caret line="128" column="5" lean-forward="true" selection-start-line="109" selection-start-column="3" selection-end-line="128" selection-end-column="5" />
+          <caret line="128" column="5" lean-forward="false" selection-start-line="109" selection-start-column="3" selection-end-line="128" selection-end-column="5" />
           <folding>
             <element signature="e#293#430#0#PHP" expanded="false" />
             <element signature="e#435#929#0#PHP" expanded="false" />
@@ -1093,7 +1026,7 @@
     <entry file="file://$PROJECT_DIR$/resources/views/payments.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="19" column="18" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="19" selection-end-column="18" />
+          <caret line="19" column="18" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="19" selection-end-column="18" />
           <folding>
             <marker date="1574011055040" expanded="true" signature="9:22" ph="..." />
             <marker date="1574011055040" expanded="true" signature="34:43" ph="..." />
@@ -1114,46 +1047,6 @@
             <marker date="1574011055040" expanded="true" signature="3434:3457" ph="..." />
             <marker date="1574011055040" expanded="true" signature="3722:3791" ph="..." />
             <marker date="1574011055040" expanded="true" signature="4058:4119" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/clients.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="35" column="50" lean-forward="false" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
-          <folding>
-            <element signature="e#1808#4361#0#HTML" expanded="false" />
-            <element signature="e#4428#4584#0#HTML" expanded="false" />
-            <marker date="1574016701224" expanded="true" signature="9:22" ph="..." />
-            <marker date="1574016701224" expanded="true" signature="34:43" ph="..." />
-            <marker date="1574016701224" expanded="true" signature="284:314" ph="..." />
-            <marker date="1574016701224" expanded="true" signature="284:352" ph="..." />
-            <marker date="1574016701224" expanded="true" signature="426:469" ph="..." />
-            <marker date="1574016701224" expanded="true" signature="662:732" ph="..." />
-            <marker date="1574016701224" expanded="true" signature="1495:1512" ph="..." />
-            <marker date="1574016701224" expanded="true" signature="1623:1642" ph="..." />
-            <marker date="1574016701224" expanded="true" signature="1743:1778" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/clientSearch.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-289">
-          <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-          <folding>
-            <element signature="e#1781#1881#0#HTML" expanded="false" />
-            <marker date="1574016712806" expanded="true" signature="4:39" ph="..." />
-            <marker date="1574016712806" expanded="true" signature="412:431" ph="..." />
-            <marker date="1574016712806" expanded="true" signature="484:502" ph="..." />
-            <marker date="1574016712806" expanded="true" signature="532:545" ph="..." />
-            <marker date="1574016712806" expanded="true" signature="573:604" ph="..." />
-            <marker date="1574016712806" expanded="true" signature="632:646" ph="..." />
-            <marker date="1574016712806" expanded="true" signature="680:693" ph="..." />
-            <marker date="1574016712806" expanded="true" signature="840:856" ph="..." />
-            <marker date="1574016712806" expanded="true" signature="1037:1068" ph="..." />
-            <marker date="1574016712806" expanded="true" signature="1476:1537" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1191,6 +1084,62 @@
             <element signature="e#813#1774#0#PHP" expanded="false" />
             <element signature="e#896#1765#0#PHP" expanded="false" />
             <element signature="e#1780#2023#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/clients.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="54" column="58" lean-forward="false" selection-start-line="54" selection-start-column="58" selection-end-line="54" selection-end-column="58" />
+          <folding>
+            <element signature="e#4427#4583#0#HTML" expanded="false" />
+            <marker date="1574023204082" expanded="true" signature="9:22" ph="..." />
+            <marker date="1574023204082" expanded="true" signature="34:43" ph="..." />
+            <marker date="1574023204082" expanded="true" signature="284:314" ph="..." />
+            <marker date="1574023204082" expanded="true" signature="284:352" ph="..." />
+            <marker date="1574023204082" expanded="true" signature="426:469" ph="..." />
+            <marker date="1574023204082" expanded="true" signature="662:732" ph="..." />
+            <marker date="1574023204082" expanded="true" signature="1495:1512" ph="..." />
+            <marker date="1574023204082" expanded="true" signature="1623:1642" ph="..." />
+            <marker date="1574023204082" expanded="true" signature="1743:1778" ph="..." />
+            <marker date="1574023204082" expanded="true" signature="2467:2486" ph="..." />
+            <marker date="1574023204082" expanded="true" signature="2579:2597" ph="..." />
+            <marker date="1574023204082" expanded="true" signature="2647:2660" ph="..." />
+            <marker date="1574023204082" expanded="true" signature="2708:2739" ph="..." />
+            <marker date="1574023204082" expanded="true" signature="2787:2801" ph="..." />
+            <marker date="1574023204082" expanded="true" signature="2855:2867" ph="..." />
+            <marker date="1574023204082" expanded="true" signature="3114:3130" ph="..." />
+            <marker date="1574023204082" expanded="true" signature="3391:3422" ph="..." />
+            <marker date="1574023204082" expanded="true" signature="3914:3975" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/clientSearch.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+          <folding>
+            <element signature="e#1780#1880#0#HTML" expanded="false" />
+            <marker date="1574023222652" expanded="true" signature="4:39" ph="..." />
+            <marker date="1574023222652" expanded="true" signature="412:431" ph="..." />
+            <marker date="1574023222652" expanded="true" signature="484:502" ph="..." />
+            <marker date="1574023222652" expanded="true" signature="532:545" ph="..." />
+            <marker date="1574023222652" expanded="true" signature="573:604" ph="..." />
+            <marker date="1574023222652" expanded="true" signature="632:646" ph="..." />
+            <marker date="1574023222652" expanded="true" signature="680:692" ph="..." />
+            <marker date="1574023222652" expanded="true" signature="839:855" ph="..." />
+            <marker date="1574023222652" expanded="true" signature="1036:1067" ph="..." />
+            <marker date="1574023222652" expanded="true" signature="1475:1536" ph="..." />
           </folding>
         </state>
       </provider>

@@ -18,7 +18,7 @@
                 <td>{{$client->name}}</td>
                 @if( Auth::user()->hasRole('admin'))
                     <td>{{$client->email}}</td>
-                    <td>{{$client->tell}}</td>
+                    <td>{{$client->tel}}</td>
                 @else
                     <td>******</td>
                     <td>******</td>
